@@ -1,6 +1,3 @@
-package F28DA_CW1;
-
-/** Interface your hash table has to implement */
 public interface IHashWLMonitor {
 
 	/** Returns the maximum authorised load factor */

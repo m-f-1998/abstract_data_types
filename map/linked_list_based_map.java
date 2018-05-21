@@ -1,5 +1,3 @@
-package F28DA_CW1;
-
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -12,6 +10,7 @@ import java.util.List;
  * @author Matthew Frankland
  *
  */
+
 public class ListIWLMap implements IWLMap {
 
 	private static List<wordsAndLocations> listMap = new LinkedList<wordsAndLocations>();

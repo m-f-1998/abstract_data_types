@@ -1,5 +1,3 @@
-package F28DA_CW1;
-
 import java.util.Collection;
 import java.util.Iterator;
 import java.util.LinkedList;
@@ -13,6 +11,7 @@ import java.util.List;
  * @author Matthew Frankland
  *
  */
+
 public class HashWLMap implements IWLMap, IHashWLMonitor {
 	private wordsAndLocations[] hashTableArray = new wordsAndLocations[13];
 	private IHashCode inputCode;

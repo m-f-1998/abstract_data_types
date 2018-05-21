@@ -1,5 +1,3 @@
-package F28DA_CW1;
-
 import static org.junit.Assert.assertEquals;
 import java.util.Iterator;
 import java.util.LinkedList;

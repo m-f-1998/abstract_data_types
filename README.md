@@ -1,5 +1,7 @@
-# Abstract Data Types - ADT
+# Abstract Data Types (ADT)
 
-Def: An abstract data type (ADT) is a mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations.
+### Created by Matthew Frankland (November 2017)
 
-Note - This is a working repository which I may update with the same abstract data type in multiple languages over time. I currently have implementations for Java.
+## Problem Specification
+
+An abstract data type (ADT) is a mathematical model for data types, where a data type is defined by its behavior (semantics) from the point of view of a user of the data, specifically in terms of possible values, possible operations on data of this type, and the behavior of these operations. Implement a variety of ADTs in Java.
